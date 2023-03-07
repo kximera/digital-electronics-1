@@ -1,4 +1,4 @@
-# Lab 4: Ivan Lipták
+# Lab 4: Jesús Santos Gravalosa
 
 ### LED(7:4) indicators
 
