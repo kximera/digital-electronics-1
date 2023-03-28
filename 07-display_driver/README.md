@@ -1,5 +1,5 @@
-# Lab 7: Marek Coufal
-![your figure](images/IMG_20230323_120555.jpg)
+# Lab 7: Jesús Santos Gravalosa
+
 ### Display driver
 
 1. Listing of VHDL code of the completed process `p_mux`. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
@@ -49,4 +49,4 @@ p_mux : process (clk) is
 
 1. Image of the 8-digit driver's block schematic. The image can be drawn on a computer or by hand. Always name all inputs, outputs, components, and internal signals!
 
-   ![your figure](images/driver8seg.png)
+   ![WhatsApp Image 2023-03-28 at 23 04 40](https://user-images.githubusercontent.com/63504192/228366629-33c8544c-bb89-4fff-b3db-47521b5d2dd1.jpg)
